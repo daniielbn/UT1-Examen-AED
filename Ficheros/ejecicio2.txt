@@ -1,0 +1,6 @@
+Nombre|Apellido1|Apellido2|Edad|Sexo
+Juana|López|González|25|Mujer
+Pepe|López|López|40|Hombre 
+Juan|González|González|30|Hombre 
+Luisa|López||Ibañez|40|Mujer
+Luis|Gómez|Ibañez|40|Mujer

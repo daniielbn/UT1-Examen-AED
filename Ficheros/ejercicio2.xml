@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Personas>
+    <Persona>
+        <Id>1</Id>
+        <Nombre>Juana</Nombre>
+        <Apellido1>López</Apellido1>
+        <Apellido2>González</Apellido2>
+        <Edad>25</Edad>
+        <Sexo>Mujer</Sexo>
+    </Persona>
+    <Persona>
+        <Id>2</Id>
+        <Nombre>Pepe</Nombre>
+        <Apellido1>López</Apellido1>
+        <Apellido2>López</Apellido2>
+        <Edad>40</Edad>
+        <Sexo>Hombre </Sexo>
+    </Persona>
+    <Persona>
+        <Id>3</Id>
+        <Nombre>Juan</Nombre>
+        <Apellido1>González</Apellido1>
+        <Apellido2>González</Apellido2>
+        <Edad>30</Edad>
+        <Sexo>Hombre </Sexo>
+    </Persona>
+    <Persona>
+        <Id>4</Id>
+        <Nombre>Luisa</Nombre>
+        <Apellido1>López</Apellido1>
+        <Apellido2>Ibañez</Apellido2>
+        <Edad>40</Edad>
+        <Sexo>Mujer</Sexo>
+    </Persona>
+    <Persona>
+        <Id>5</Id>
+        <Nombre>Luis</Nombre>
+        <Apellido1>Gómez</Apellido1>
+        <Apellido2>Ibañez</Apellido2>
+        <Edad>40</Edad>
+        <Sexo>Mujer</Sexo>
+    </Persona>
+</Personas>
